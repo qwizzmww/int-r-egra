@@ -1,0 +1,2 @@
+
+        DiscriminantSpecialCase(a, b, c);
